@@ -8,7 +8,7 @@ Teammembers:
 
 Cornelia Schär, senior user and feelgood management
 
-Silke Scherdin, senior end user, Scrum Master and mentor
+Silke Scherdin, senior user, Scrum Master and mentor
 
 Marc Dissel, developer
 
@@ -34,7 +34,7 @@ for the current or future job?
 
 We want to build a company tool which gives the employees the opportunity to choose the right learning course. Company mentors can 
 
-recommand the right course for a specific job. Attendees can vote for courses they have attended. Our planned prototyp
+recommand the right course for a specific job. Attendees can vote for courses they have attended. Our planned prototype
 
 is an online intranet platform.
 
