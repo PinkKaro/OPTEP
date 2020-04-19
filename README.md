@@ -8,9 +8,9 @@ Teammembers:
 
 Cornelia Schär, senior user and feelgood management
 
-Silke Scherdin, senior user, Scrum Master and mentor
+Silke Scherdin, senior user, scrum master and mentor
 
-Marc Dissel, developer
+Marc Dissel, analyst and developer
 
 Carolin Otto, developer and project manager
 
