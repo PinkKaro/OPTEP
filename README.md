@@ -1,4 +1,4 @@
-### HR Hackathon 2020 Project 1_20 Professional training evaluation + planning platform 
+# HR Hackathon 2020 Project 1_20 Professional training evaluation + planning platform 
 
 ## Project name, name and descriptions of team members
 
@@ -17,7 +17,7 @@ Carolin Otto, developer and project manager
 Ze, UX designer
 
 ## 2 minute video pitch
-
+On YouTube: 
 
 ## the initial idea and why you wanted to build it
 
